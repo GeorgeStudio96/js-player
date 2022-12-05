@@ -1,1 +1,1 @@
-Website: js-players.netlify.app
+Website: https://js-players.netlify.app
