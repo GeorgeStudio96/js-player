@@ -1,4 +1,14 @@
 export const scriptInit = () => {
+
+    // test
+    function myFoo(propsOne, propsTwo, propsThree) {
+        console.log(propsOne + propsTwo + propsThree)
+    }
+
+    myFoo('1', '2', '3')
+
+
+
     console.log("Create Functional")
 
     const tabBtn = document.querySelectorAll('.player-btn');
@@ -35,5 +45,8 @@ export const scriptInit = () => {
 
 
     })
+
+
+
 
 }
